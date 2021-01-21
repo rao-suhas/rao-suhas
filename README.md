@@ -10,4 +10,3 @@ This is me:
 * 👯 I’m looking to collaborate on any interesting projects
 * 📫 How to reach me: @suhasraooV
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rao-suhas)
