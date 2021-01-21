@@ -8,5 +8,5 @@ This is me:
 * 🔭 I’m currently working on honing skills on Deep Learning
 * 🌱 My Favourite area is Computer Vision in AI
 * 👯 I’m looking to collaborate on any interesting projects
-* 📫 How to reach me: @suhasraooV
+* 📫 Reach me on Twitter: @suhasraooV
 
