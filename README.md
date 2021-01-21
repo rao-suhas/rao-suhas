@@ -1,6 +1,8 @@
 Hi there 👋
 
-My name is Suhas, I am a Robotics Engineer :robot: with MSc in robotics from University of Bristol :school:; passionate about AI/ML/DL & R&D.
+My name is Suhas, I am a Robotics Engineer :robot: with MSc in robotics from University of Bristol; 
+
+Field of interests: AI/ML/DL & R&D.
 
 This is me:
 * 🔭 I’m currently working on honing skills on Deep Learning
