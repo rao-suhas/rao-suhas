@@ -9,3 +9,5 @@ This is me:
 * 🌱 My Favourite area is Computer Vision in AI
 * 👯 I’m looking to collaborate on any interesting projects
 * 📫 How to reach me: @suhasraooV
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rao-suhas)
